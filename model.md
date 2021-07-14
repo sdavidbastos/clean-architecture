@@ -1,0 +1,20 @@
+# Entity
+
+## ParkingLot
+
+- code
+- capacity
+- openHour
+- closeHour
+
+## ParkedCar
+
+- code
+- plate
+- date
+  
+# Use Case
+
+## EnterParkingLot
+
+## LeaverParkingLot
